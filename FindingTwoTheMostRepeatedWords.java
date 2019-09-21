@@ -2,7 +2,7 @@ package io.app.service.productservice;
 
 import java.util.*;
 
-public class MainApp {
+public class FindingTwoTheMostRepeatedWords {
     public static void main(String[] args) {
         String[] names={"SHAIKSHA","SREENATH","SHAIKSHA","SREENATH","SREENATH","SREENATH","SHAIKSHA","SHAIKSHA","SHAIKSHA","BANANA"};
         Map<String,Integer> map=new HashMap<>();
